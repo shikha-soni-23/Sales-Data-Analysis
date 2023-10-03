@@ -11,7 +11,7 @@ Here are the key tasks performed:
 - Identifying the US city with the highest sales.
 - Analyzing the optimal times for displaying advertisements.
 
-5.**Product Analysis**:
+5. **Product Analysis**:
 - Discovering products most often sold together.
 - Identifying the best-selling product and exploring its relationship with price.
   
